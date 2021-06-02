@@ -2,7 +2,7 @@
 library(shiny)
 library(ggmap)
 library(data.table)
-library(tidywerse)
+library(tidyverse)
 
 load("data/district_latlon.RData")
 
